@@ -1,5 +1,4 @@
 # Report 2: Predicting Countries Temperatures
-CSC 576
 By Zach Dyszel
 
 In Report 1, I explored the relationship between average temperature, forest coverage, and urbanization. For Report 2, I wanted to see if I could predict a country's average annual surface temperature based on its geographic, environmental, and demographic characteristics.
